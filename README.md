@@ -46,6 +46,25 @@ On va faire un tableau avec des tableaux.
 ## Remise
 
 - Travail individuel.
-- Durée : Une semaine. À remettre avant le cours **une semaine** après la réception.
 - Compte pour **5%** de la note finale.
-- Renommer le dossier `NOMP0123456_tableau` **AVANT** de le zipper pour le remettre dans le devoir correspondant dans Teams.
+- Durée : Une semaine. À remettre avant le cours **une semaine** après la réception.
+- Remise : Renommer le dossier `NOMP0123456_tableau` **AVANT** de le zipper pour le remettre dans le devoir correspondant dans Teams.
+
+## Grille de correction (provisoire)
+
+1. Création des données (___/6)
+    1. ___/3 Création du tableau (array) pour les noms des caractéristiques
+    2. ___/3 Création d'un tableau de données pour chaque caractéristique
+2. "Rite de passage" (___/9)
+    1. ___/3 Création par programmation des bonnes balises (table, thead...)
+    2. ___/3 Bonne imbrication des éléments
+    3. ___/3 Ajout des données dans les cellules (innerHTML)
+3. Boucles (___/12)
+    1. ___/3 Une boucle pour les étiquettes dans le thead
+    2. ___/3 Une boucle pour les individus dans le tbody
+    3. ___/3 Utilisation de .length pour la longueur des boucles
+    4. ___/3 Récupération adéquate des données des arrays
+4. Mise en page (___/3)
+   1. ___/3 Visuel "intéressant"
+
+**Total : ___/30**
