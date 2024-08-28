@@ -1,0 +1,8 @@
+<svg width="512" height="512" version="1.1" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+    <g>
+        <path d="m0 0v512h512v-512z"/>
+        <path d="m192 192h128v64h-128zm160 0h96v64h-96zm-160 96h128v64h-128zm160 0h96v64h-96zm-160 96h128v64h-128zm160 0h96v64h-96z" fill="#fff" fill-rule="evenodd" stop-color="#000000" stroke-width="16"/>
+        <path d="m64 192h96v64h-96zm0 96h96v64h-96zm0 96h96v64h-96z" fill="#f0f"/>
+        <path d="m64 64h96v96h-96zm128 0h128v96h-128zm160 0h96v96h-96z" fill="#f60"/>
+    </g>
+</svg>
