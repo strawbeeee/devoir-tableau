@@ -1,6 +1,7 @@
 # Devoir : Tableau
 
 On va faire un tableau avec des tableaux.
+
 ![Présentation](_assets/tableau.svg)
 
 ## Préparation en classe
@@ -37,11 +38,11 @@ On va faire un tableau avec des tableaux.
 
 ## Le projet
 
-1. Créer un tableau avec les noms des 3 caractéristiques. Ex.: `["Nom", "Prénom", "Taille"]`
-2. Mettre les informations dans 3 tableaux (array) _Javascript_. Faire 1 tableau par caractéristique.
+1. Créer un tableau avec les libélés (noms) des 3 caractéristiques. Ex.: `["Nom", "Prénom", "Taille"]`
+2. Dans 3 autres tableaux (array) _Javascript_, mettre les informations relatives aux individus.  Faire 1 tableau par caractéristique.
 3. _Optionnellement_, vous pouvez rassembler ces 3 tableaux dans un tableau parent.
-4. Reproduire le tableau `<table>` à l'aide de boucles (2 boucles : une pour les noms et une pour les individus).
-5. Faire une **petite** mise en page CSS (_C'est un cours de Web après tout._).
+4. Reproduire le tableau `<table>` à l'aide de boucles (2 boucles : une pour les libélés (noms) et une pour les individus).
+5. Faire une **petite** mise en page CSS (_c'est un cours de Web après tout._).
 
 ## Remise
 
